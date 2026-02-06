@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently sharpening my designing skills as I'm passionate about it and strengthening my Java fundamentals, with a strong aspiration to grow into a Tech based Business such as Business Analytics<br>I’m actively looking to collaborate on open-source projects, especially in full-stack development and design-focused work, where I can both contribute and learn from real-world projects<br>I’m currently learning Python and JavaScript, and I have a solid working knowledge of MySQL and Microsoft Excel<br>Along with technical skills, I bring strong customer communication abilities and thrive as a collaborative team player, always eager to learn and adapt
+->I’m currently sharpening my designing skills as ->I'm passionate about it and strengthening my Java fundamentals, with a strong aspiration to grow into a Tech based Business such as Business Analytics<br>->I’m actively looking to collaborate on open-source projects, especially in full-stack development and design-focused work, where I can both contribute and learn from real-world projects<br>->I’m currently learning Python and JavaScript, and I have a solid working knowledge of MySQL and Microsoft Excel<br>->Along with technical skills, I bring strong customer communication abilities and thrive as a collaborative team player, always eager to learn and adapt
 
 
 ## 🌐 Socials:
